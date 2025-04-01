@@ -50,7 +50,7 @@ I am a passionate software developer with a strong foundation in **Python, Djang
 ## 📬 **Get in Touch**
 📧 Email: [diwashshrestha108@gmail.com](mailto:diwashshrestha108@gmail.com)  
 🌐 Portfolio: [diwashshrestha-portfolio.onrender.com](https://diwashshrestha-portfolio.onrender.com/)  
-💼 LinkedIn: (https://www.linkedin.com/in/diwash-shrestha-411592328/) 
+💼 LinkedIn: [Diwash Shrestha](https://www.linkedin.com/in/diwash-shrestha-411592328/)  
 🐍 GitHub: [github.com/diwash-sresta](https://github.com/diwash-sresta)  
 
 ---
