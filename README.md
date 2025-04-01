@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Diwash Shrestha!  
 <h1 align="center">  
   👋 Hey, I'm <span style="color:#007BFF;">Diwash Shrestha</span>!  
 </h1>
@@ -9,7 +8,6 @@
 
 
 
-🎓 **BSc. CSIT Graduate** | 💻 **Software Developer** | 🌐 **Web Enthusiast**  
 
 I am a passionate software developer with a strong foundation in **Python, Django, JavaScript, Next.js, and Database Management**. I enjoy building web applications, solving problems, and continuously learning new technologies.  
 
