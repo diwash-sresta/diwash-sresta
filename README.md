@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🎓 BSc. CSIT Graduate | 💻 Software Developer | 🌐 Web Enthusiast  
+  🎓 BSc. CSIT Graduate |  🌐 Web Enthusiast  
 </p>
 
 
